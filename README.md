@@ -8,7 +8,8 @@
   |Argumento |Tipo   |Descrição                                                 |
   |----------|-------|----------------------------------------------------------|
   |Endereço  |String |Endereço no qual existe um servidor esperando por conexões|
-  |Nick      |String |Nick que o usuário vai usar para jogar                    |  
+  |Nick      |String |Nick que o usuário vai usar para jogar                    | 
+  |Team      |Stirng |Equipe do jogador (Cliente Gtetrinet)                     |
 
 ### - Encoded login message from client to server
 - O cliente deve fazer o encode da mensagem e enviar os seguintes dados em uma string:
