@@ -49,7 +49,9 @@
   ```
   team <number> <team name>
   ```
+### - Diagrama de sequência
 
+![](https://github.com/rodrigaobt/develdocs/blob/master/login.svg)
 
   
 
