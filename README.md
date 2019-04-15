@@ -51,7 +51,7 @@
   ```
 ### - Diagrama de sequência
 
-![](https://github.com/rodrigaobt/develdocs/blob/master/login.svg)
+- ![](https://github.com/rodrigaobt/develdocs/blob/master/login.svg)
 
   
 
