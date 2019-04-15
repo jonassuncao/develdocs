@@ -25,10 +25,22 @@
   ```
   playernum <number>
   ```
+  
+  |Argumento |Tipo   |Valores|Descrição                                                 |
+  |----------|-------|-------|----------------------------------------------------------|
+  |Number    |Int    |1 - 6  |Número de jogador para o novo cliente.                    |
+  
+  
   ```
   winlist <type><name>;<score> <type><name>;<score> ... <type><name>;<score>
   ```
-
+  
+  |Argumento |Tipo   |Valores|Descrição                                                 |
+  |----------|-------|-------|----------------------------------------------------------|
+  |Type      |Char   |t ou c |Especifica se a entrada é uma equipe (t) ou um jogador (p)|
+  |Name      |String |       |O nome do jogador ou da equipe                            |
+  |Score     |Int    |       |O score do jogador ou da equipe                           |
+  
 
 
 
